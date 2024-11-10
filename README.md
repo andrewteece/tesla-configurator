@@ -5,3 +5,6 @@ UI to customize a Tesla Model Y. Change the exterior, interior and wheels. Add d
 - Live Site URL: [https://andrewteece.github.io/tesla-configurator/]
 
 <img src="./images/screen.jpg" />   
+
+
+TODO: refactor project with React
